@@ -1,0 +1,46 @@
+body {
+    background: #F2F2F2;
+
+}
+
+.header-menu {
+    position: absolute;
+    width: 1249px;
+    margin: 0;
+    left: 164px;
+    top: 29px;
+    background: #000000;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+
+}
+
+.menu {
+    text-align: center;
+    margin: 0;
+
+}
+
+.menu-item {
+
+    display: inline-block;
+    padding: 32px 50px;
+
+}
+
+.menu-item:hover {
+    background-color: rgb(255, 63, 64);
+  }
+
+.item-link {
+    font-family: 'OpenSans';
+    font-size: 14px;
+    /* identical to box height, or 171% */
+
+    align-items: center;
+    letter-spacing: 0.49px;
+    text-transform: uppercase;
+    
+    color: #E0E0E0;
+
+}
